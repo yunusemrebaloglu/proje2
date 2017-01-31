@@ -1,0 +1,33 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
+
+
+.container {
+    background-color: white;
+    width: 1200px;
+}
+
+
+
+.paylasilan{border-style: ridge;}
+
+.yorum{border-style: inset;}
+
+.profilresmi {border-radius: 100%;  }
+
+.outset {border-style: outset;}
+
+body {
+    background-color: #800000;
+}
+
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
